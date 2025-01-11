@@ -1,4 +1,4 @@
-# Super-Mart-Grocery-Sales-Analysis
+# SuperMart Grocery Sales Analysis
 ![Image Alt](https://raw.githubusercontent.com/AnkitaSarkar-98/Super-Mart-Grocery-Sales-Analysis/refs/heads/main/Shopping%20image.webp)
 
 This repository showcases a sales analysis dashboard for Super Mart Grocery, offering key insights into customer behavior, revenue trends, and performance metrics.
@@ -21,3 +21,8 @@ Leverage high-traffic days (Saturdays) for offers and campaigns.
 
 Conclusion :
 This dashboard provides actionable insights into customer behavior and sales trends, helping optimize marketing strategies, improve low-performing periods, and maximize profitability. Use these insights to drive data-driven decision-making for sustained growth.
+
+
+Thank you for taking the time to check out this project! Your interest, feedback, and contributions mean a lot. If you have any suggestions feel free to share. Don't forget to ⭐ this repository if you found it helpful it really helps others find it too.
+
+Happy coding
